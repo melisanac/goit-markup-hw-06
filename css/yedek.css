@@ -1,23 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-root {
-  --iris: #4d5ae5;
-  --ocean: #404bbf;
-  --navy-blue: #2e2f42;
-  --green: #31d0aa;
-  --slate: #434455;
-  --light-slate: #8e8f99;
-  --cornflower: #e7e9fc;
-  --cloud: #f4f4fd;
-  --navy-blue-modal: #2e2f42;
-  --grey: #2e2f42;
-  --white: #ffffff;
-  --dairy: #fcfcfc;
-}
-
 body {
   font-family: 'Roboto', 'Verdana', sans-serif;
-  color: var(--slate);
+  color: #434455;
   letter-spacing: 0.02em;
 }
 
